@@ -44,3 +44,12 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=sport-marafon-tests&theme=blueberry)](https://github.com/gaynanovadr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=chitai-gorod-tests&theme=blueberry)](https://github.com/gaynanovadr)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=wikipedia-tests&theme=blueberry)](https://github.com/gaynanovadr)
+
+
+## My Stats
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaynanovadr&theme=tokyonight" alt="Profile Details">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaynanovadr&theme=tokyonight" alt="Stats">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaynanovadr&theme=tokyonight" alt="Most Commit Language">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaynanovadr&theme=tokyonight" alt="Repos Per Language">
+</p>
