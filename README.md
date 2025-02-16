@@ -38,6 +38,7 @@
     <a href="https://t.me/Dina_Gesserit" target="_blank"><img alt="telegram" src="https://img.shields.io/badge/@Dina_Gesserit-26A5E4.svg?style=flat&logo=telegram&logoColor=white" height="30"></a>
     <a href="https://www.linkedin.com/in/dinara-gaynanova/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white" height="30"></a>
 </p>
+
                                                                                                                                          
 ## My Projects 
 
@@ -46,8 +47,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=egorov-ma&repo=wikipedia-tests&theme=blueberry)](https://github.com/gaynanovadr)
 
 
+
 ## My Stats
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=gaynanovadr&theme=tokyonight" alt="Profile Details">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=gaynanovadr&theme=tokyonight" alt="Stats">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaynanovadr&theme=tokyonight" alt="Most Commit Language">
