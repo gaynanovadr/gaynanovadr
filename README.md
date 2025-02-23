@@ -1,5 +1,5 @@
-<h1 align="center">Hi there 👋, I'm Dinara</h1>
-<h3 align="center">QA Test Automation Engineer with 3+ years of experience in Automation with Java </h3>
+<h1 align="center">Hi there 👋  I'm Dinara</h1>
+<h3 align="center">QA Test Automation Engineer with 3+ years of experience in Automation </h3>
 
 
 - 🎓 Always keen to learn new tools and frameworks **QA, Java, Playwright**
