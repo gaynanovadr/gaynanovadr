@@ -2,7 +2,7 @@
 <h3 align="center">QA Test Automation Engineer with 3+ years of experience in Automation </h3>
 
 
-- 🎓 Always keen to learn new tools and frameworks **QA, Java, Playwright**
+- 🎓 Always keen to learn new tools and frameworks **Java, Selenium, Rest-assured, Selenide, Playwright**
 - 💼 Currently #opentowork
 - 💻 Please find below couple of my Demo projects
 - 💬 Hobbies: Hiking 🏃‍♂ 🏔️ Tennis 🎾 Cooking 👩‍🍳
