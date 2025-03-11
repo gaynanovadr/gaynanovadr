@@ -1,14 +1,22 @@
 <h1 align="center">Hi there! 👋  I'm Dinara </h1>
 <h3 align="center">QA Test Automation Engineer with 3+ years of experience in Automation </h3>
 
+Welcome to my GitHub profile! I am a result oriented QA Automation Engineer passionate about fixing messy QA processes and implementing cutting-edge automation strategies to deliver exceptional software quality.
 
-- 🎓 Always keen to learn new tools and frameworks **Java, Selenium, Rest-assured, Selenide, Playwright**
+## 🚀 About Me
+- 🌟 **Roles**: QA Automation Engineer | QA Engineer | QA Analyst
+- 🛠️ **Expertise**: Rest-assured, Selenium, Selenide, Java and modern test automation practices.
+- 📈 **Key Achievements**:
+  - Reduced the time required to complete regression testing by 60% - from 5 to 2 days by implementation of product automation from scratch.
+  - Created and maintained API test suites comprising approximately 2000 automated tests using Rest-assured, JUnit, Java and Allure tools, aligned with requirement specifications.
+  - Architected, executed, and fine-tuned over 100 load and performance test scenarios using JMeter, significantly enhancing system efficiency under peak loads.
+- 🎓 Always keen to learn new tools and frameworks currently **Playwright**
 - 💼 Currently #opentowork
 - 💻 Please find below couple of my Demo projects
 - 💬 Hobbies: Hiking 🏃‍♂ 🏔️ Tennis 🎾 Cooking 👩‍🍳
 
 
-<h3 align="left">Stack:</h3>
+<h3 align="left"> 🛠️ Tech Stack:</h3>
 <p align="center">
 <a href="https://www.java.com/"><img src="media/logo/Java.svg" width="60" height="60"  alt="Java"/></a>
 <a id ="tech" href="https://www.jetbrains.com/idea/"><img src="media/logo/Idea.svg" width="60" height="60"  alt="IDEA"/></a>
@@ -30,7 +38,7 @@
 <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="50" height="50"/> </a> 
 </p>
 
-## 📫 How to reach me: 
+## 📫 Let's Connect
 
 <p align="left">
     <a href="mailto:gaynanovadr@me.com"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" height="30"/>
@@ -55,3 +63,9 @@
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=gaynanovadr&theme=tokyonight" alt="Most Commit Language">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=gaynanovadr&theme=tokyonight" alt="Repos Per Language">
 </p>
+
+---
+
+Thank you for visiting my profile! Let’s connect to discuss automation, QA strategies, or building outstanding teams. Together, we can ensure every release meets the highest standards of quality.
+
+![Visitor Count](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/gaynanovadr&title=Visitors)
